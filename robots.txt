@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://gatsby-starter-portfolio-minimal.netlify.app/sitemap.xml
-Host: https://gatsby-starter-portfolio-minimal.netlify.app
+Sitemap: https://hyunuk.github.io/sitemap.xml
+Host: https://hyunuk.github.io
