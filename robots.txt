@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://hyunuk.github.io/sitemap.xml
+Sitemap: https://hyunuk.github.io/sitemap/sitemap-index.xml
 Host: https://hyunuk.github.io
